@@ -1,0 +1,22 @@
+.parcelCard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.operationBox {
+    margin-left: 15px;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
